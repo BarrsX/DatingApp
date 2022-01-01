@@ -104,3 +104,10 @@ C:\Users\kingx\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\staticwebassets.d
 C:\Users\kingx\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
 C:\Users\kingx\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
 C:\Users\kingx\OneDrive\Desktop\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
