@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kingx\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {}
+    "D:\\Coding\\udemy couse\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kingx\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj": {
+    "D:\\Coding\\udemy couse\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kingx\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\Coding\\udemy couse\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\kingx\\OneDrive\\Desktop\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\Coding\\udemy couse\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\kingx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kingx\\OneDrive\\Desktop\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\Coding\\udemy couse\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kingx\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

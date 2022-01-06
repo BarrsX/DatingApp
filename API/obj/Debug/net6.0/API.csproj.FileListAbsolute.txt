@@ -111,3 +111,10 @@ C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\System.IdentityMo
 C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\kingx\OneDrive\Desktop\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coding\udemy couse\DatingApp\api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
