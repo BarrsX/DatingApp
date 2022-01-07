@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "HMACSHA"
-    ]
+    ],
+    "angular.enable-strict-mode-prompt": false
 }
